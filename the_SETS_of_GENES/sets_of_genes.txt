@@ -12,3 +12,7 @@
 # a random set of set of 837 genes, extracted from the full set of RefSeq genes on hg38 :
 
 837 set.genes.random837.bed
+
+# for normalization in edgeR, we have used the TSS of the longest isoforms in RefSeq hg38 
+
+set.genes.here.ALL.longest.isoforms.TSS.HG38.bed
