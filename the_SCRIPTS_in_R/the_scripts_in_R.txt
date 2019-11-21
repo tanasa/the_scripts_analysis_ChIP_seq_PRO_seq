@@ -1,1 +1,2 @@
 
+# here the scripts in R that do the normalization of ChIP-seq, ChIRC-seq or PRO-seq reads  
