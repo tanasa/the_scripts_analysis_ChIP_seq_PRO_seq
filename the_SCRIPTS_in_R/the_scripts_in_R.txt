@@ -1,6 +1,10 @@
 
 # here the scripts in R that do the normalization of ChIP-seq, ChIRC-seq or PRO-seq reads  
 
-# on 2 samples (before and after treatment, before and after knock-down)
+# on 2 samples (before and after treatment, or, before and after knock-down)
 
 a_R_script_to_normalize_and_to_display_BOXPLOTS.R
+
+# on 4 samples (before and after treatment, with knock-down sh_CTRL and sh_PROTEIN)
+
+a_R_script_to_normalize_and_to_display_BOXPLOTS_4samples.R
