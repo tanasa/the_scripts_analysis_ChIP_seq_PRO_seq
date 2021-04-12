@@ -1,0 +1,1 @@
+Here it is the set of adapters that was used by TRIMMOMATIC, before the alignment with BOWTIE2

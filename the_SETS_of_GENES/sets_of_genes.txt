@@ -1,0 +1,18 @@
+
+# according to the GRO-seq dataset in : https://www.ncbi.nlm.nih.gov/pubmed/23523369
+
+# genes UP-reg by estradiol, displaying PAUSE RELEASE, in the GRO-seq data :
+
+837 genes.TSS.UP.PR.bed
+  
+# genes UP-reg by estradiol, not displaying PAUSE RELEASE, in the set GRO-seq data :
+
+239 genes.TSS.UPnoPR.bed
+
+# a random set of set of 837 genes, extracted from the set of RefSeq genes on hg38 :
+
+837 genes.random837.bed
+
+# for normalization in edgeR, we used the TSS of the longest isoforms in RefSeq hg38 :
+
+genes.all.TSS.HG38.bed
